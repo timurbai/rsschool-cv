@@ -1,6 +1,6 @@
 # **Timur Baymanov**
 
-![Ye, it's me](https://github.com/timurbai/rsschool-cv/blob/gh-pages/photo.png)
+<img src=https://github.com/timurbai/rsschool-cv/blob/gh-pages/photo.png alt="Photo" width="320" height="320">
 
 ---
 ### **Contacts**
